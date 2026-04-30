@@ -34,7 +34,7 @@ Se entrenaron y evaluaron cuatro algoritmos distintos:
 | Algoritmo | F1-Score | Precision | Recall | Fortaleza Principal |
 |-----------|----------|-----------|--------|-------------------|
 | **Decision Tree** | 0.07 | 0.04 | 0.52 | Interpretabilidad alta |
-| **Random Forest** | 0.02 8 0.04 | 0.67 | Estabilidad y reducción de overfitting |
+| **Random Forest** | 0.02 | 0.04 | 0.67 | Estabilidad y reducción de overfitting |
 | **XGBoost** | **0.3976** | **0.40** | **0.40** | Capacidad predictiva superior |
 | **RNA (MLP)** | 0.08 | 0.04 | 0.58 | Flexibilidad en patrones complejos |
 
